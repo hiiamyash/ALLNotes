@@ -4,7 +4,7 @@
 
 ![Pasted image 20250403204432](Pasted%20image%2020250403204432.png)
 
-![Pasted image 20250403204507](Pasted%20image%2020250403204507.png)
+![Pasted image 20250403204507](/ALLNotes/attchments/Pasted%20image%2020250403204507.png)
 
 
 ![Pasted image 20250403204532](Pasted%20image%2020250403204532.png)
