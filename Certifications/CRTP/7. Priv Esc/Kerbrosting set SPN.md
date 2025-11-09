@@ -1,4 +1,4 @@
-![[Pasted image 20250621182138.png]]
+![Pasted image 20250621182138](Pasted%20image%2020250621182138.png)
 
-![[Pasted image 20250621182152.png]]
+![Pasted image 20250621182152](Pasted%20image%2020250621182152.png)
 

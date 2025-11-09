@@ -9,7 +9,7 @@
 ![Exported image](Exported%20image%2020241212232336-6.png)  
 ![Exported image](Exported%20image%2020241212232338-7.png)  
 ![Exported image](Exported%20image%2020241212232340-8.png)
-![[Pasted image 20250319172502.png]]
+![Pasted image 20250319172502](Pasted%20image%2020250319172502.png)
 
 
 ![Exported image](Exported%20image%2020241212232345-9.png)  

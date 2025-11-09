@@ -1,19 +1,19 @@
 
-![[Pasted image 20250131213853.png]]
+![Pasted image 20250131213853](Pasted%20image%2020250131213853.png)
 
-![[Pasted image 20250131213910.png]]
+![Pasted image 20250131213910](Pasted%20image%2020250131213910.png)
 
 725r%5O9
 minSDk versions defines what is the lowest  version of android it can run on 
 
 Permissions what we have assec to
 
-![[Pasted image 20250131214131.png]]
+![Pasted image 20250131214131](Pasted%20image%2020250131214131.png)
 
-![[Pasted image 20250201215800.png]]
+![Pasted image 20250201215800](Pasted%20image%2020250201215800.png)
 
 
-![[Pasted image 20250202095333.png]]
+![Pasted image 20250202095333](Pasted%20image%2020250202095333.png)
 
 
 in jadax gui open thee androidmanifest.xml in  the resorce tab

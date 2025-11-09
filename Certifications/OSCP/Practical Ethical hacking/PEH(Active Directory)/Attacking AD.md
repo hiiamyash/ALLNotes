@@ -27,7 +27,7 @@ on ebig disadvantage of this is that when we repose to this service it respone b
 ![Exported image](Exported%20image%2020241212232051-8.png)  
 ![Exported image](Exported%20image%2020241212232053-9.png)
 
-![[Pasted image 20250313202143.png]]
+![Pasted image 20250313202143](Pasted%20image%2020250313202143.png)
 **trying to access the attacker smb using its ip**
 
 ![Exported image](Exported%20image%2020241212232058-10.png)  

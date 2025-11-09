@@ -137,7 +137,7 @@ An Active Directory environment contains various accounts with the necessary per
 - Domain Administrators are user accounts that can manage information in an Active Directory environment, including AD configurations, users, groups, permissions, roles, services, etc. One of the red team goals in engagement is to hunt for information that leads to a domain administrator having complete
 
 
-![[Recording 20241221223322.m4a]]
+![Recording 20241221223322](Recording%2020241221223322.m4a)
 
 The following are Active Directory Administrators accounts:
 
@@ -671,7 +671,7 @@ Now let's try the DNS zone transfer on the domain we find in the AD environment.
 
 ```
 > ls -d thmredteam.com
-[[10.10.216.235]]
+[10.10.216.235](10.10.216.235)
  thmredteam.com.                SOA    ad.thmredteam.com hostmaster.thmredteam.com. (732 900 600 86400 3600)
  thmredteam.com.                A      10.10.216.235
  thmredteam.com.                NS     ad.thmredteam.com

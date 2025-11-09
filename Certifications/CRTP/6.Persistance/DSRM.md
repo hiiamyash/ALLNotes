@@ -1,8 +1,8 @@
 
-![[Pasted image 20250619214312.png]]
+![Pasted image 20250619214312](Pasted%20image%2020250619214312.png)
 
-![[Pasted image 20250621141155.png]]
+![Pasted image 20250621141155](Pasted%20image%2020250621141155.png)
 
-![[Pasted image 20250621141233.png]]
-![[Pasted image 20250621141321.png]]
+![Pasted image 20250621141233](Pasted%20image%2020250621141233.png)
+![Pasted image 20250621141321](Pasted%20image%2020250621141321.png)
 

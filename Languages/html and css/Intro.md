@@ -1,93 +1,93 @@
 
-![[Pasted image 20250127150401.png]]
+![Pasted image 20250127150401](Pasted%20image%2020250127150401.png)
 
 `_blank` opens the documents in an new tab
 
-![[Pasted image 20250127151458.png]]
+![Pasted image 20250127151458](Pasted%20image%2020250127151458.png)
 
-![[Pasted image 20250127152334.png]]
-
-
-![[Pasted image 20250127153200.png]]
-
-![[Pasted image 20250127155012.png]]
+![Pasted image 20250127152334](Pasted%20image%2020250127152334.png)
 
 
-![[Pasted image 20250127161336.png]]
+![Pasted image 20250127153200](Pasted%20image%2020250127153200.png)
+
+![Pasted image 20250127155012](Pasted%20image%2020250127155012.png)
 
 
-
-![[Pasted image 20250127162617.png]]
-
-![[Pasted image 20250128100335.png]]
-
-![[Pasted image 20250128103732.png]]
-![[Pasted image 20250128104720.png]]
-![[Pasted image 20250128110036.png]]
-
-![[Pasted image 20250128133947.png]]
-
-![[Pasted image 20250128140355.png]]
-![[Pasted image 20250128141524.png]]
-![[Pasted image 20250128141536.png]]
-
-![[Pasted image 20250129101955.png]]
-
-![[Pasted image 20250129102100.png]]
-
-![[Pasted image 20250129103548.png]]
-
-![[Pasted image 20250129103820.png]]
+![Pasted image 20250127161336](Pasted%20image%2020250127161336.png)
 
 
 
+![Pasted image 20250127162617](Pasted%20image%2020250127162617.png)
 
-![[Pasted image 20250129104818.png]]
+![Pasted image 20250128100335](Pasted%20image%2020250128100335.png)
 
-![[Pasted image 20250129104823.png]]
- ![[Pasted image 20250129105311.png]]
- ![[Pasted image 20250129113501.png]]
-![[Pasted image 20250129113535.png]]
+![Pasted image 20250128103732](Pasted%20image%2020250128103732.png)
+![Pasted image 20250128104720](Pasted%20image%2020250128104720.png)
+![Pasted image 20250128110036](Pasted%20image%2020250128110036.png)
 
-![[Pasted image 20250129113835.png]]
-![[Pasted image 20250129132924.png]]
+![Pasted image 20250128133947](Pasted%20image%2020250128133947.png)
 
-![[Pasted image 20250129142150.png]]
+![Pasted image 20250128140355](Pasted%20image%2020250128140355.png)
+![Pasted image 20250128141524](Pasted%20image%2020250128141524.png)
+![Pasted image 20250128141536](Pasted%20image%2020250128141536.png)
 
-![[Pasted image 20250130102021.png]]
+![Pasted image 20250129101955](Pasted%20image%2020250129101955.png)
 
+![Pasted image 20250129102100](Pasted%20image%2020250129102100.png)
 
-![[Pasted image 20250130102133.png]]
+![Pasted image 20250129103548](Pasted%20image%2020250129103548.png)
 
-
-![[Pasted image 20250130102234.png]]
-
-![[Pasted image 20250130102315.png]]
-![[Pasted image 20250130102926.png]]
-
-![[Pasted image 20250130112412.png]]
+![Pasted image 20250129103820](Pasted%20image%2020250129103820.png)
 
 
-![[Pasted image 20250130112758.png]]
-![[Pasted image 20250130112923.png]]
-![[Pasted image 20250130113140.png]]
-![[Pasted image 20250130113724.png]]
-
-![[Pasted image 20250130114017.png]]
-![[Pasted image 20250130132257.png]]
-
-![[Pasted image 20250130150532.png]]
 
 
-![[Pasted image 20250130151206.png]]
+![Pasted image 20250129104818](Pasted%20image%2020250129104818.png)
 
-![[Pasted image 20250130151334.png]]
+![Pasted image 20250129104823](Pasted%20image%2020250129104823.png)
+ ![Pasted image 20250129105311](Pasted%20image%2020250129105311.png)
+ ![Pasted image 20250129113501](Pasted%20image%2020250129113501.png)
+![Pasted image 20250129113535](Pasted%20image%2020250129113535.png)
 
-![[Pasted image 20250130151718.png]]
-![[Pasted image 20250130152208.png]]
+![Pasted image 20250129113835](Pasted%20image%2020250129113835.png)
+![Pasted image 20250129132924](Pasted%20image%2020250129132924.png)
 
-![[Pasted image 20250130152807.png]]
-![[Pasted image 20250130155349.png]]
+![Pasted image 20250129142150](Pasted%20image%2020250129142150.png)
 
-![[Pasted image 20250130155652.png]]
+![Pasted image 20250130102021](Pasted%20image%2020250130102021.png)
+
+
+![Pasted image 20250130102133](Pasted%20image%2020250130102133.png)
+
+
+![Pasted image 20250130102234](Pasted%20image%2020250130102234.png)
+
+![Pasted image 20250130102315](Pasted%20image%2020250130102315.png)
+![Pasted image 20250130102926](Pasted%20image%2020250130102926.png)
+
+![Pasted image 20250130112412](Pasted%20image%2020250130112412.png)
+
+
+![Pasted image 20250130112758](Pasted%20image%2020250130112758.png)
+![Pasted image 20250130112923](Pasted%20image%2020250130112923.png)
+![Pasted image 20250130113140](Pasted%20image%2020250130113140.png)
+![Pasted image 20250130113724](Pasted%20image%2020250130113724.png)
+
+![Pasted image 20250130114017](Pasted%20image%2020250130114017.png)
+![Pasted image 20250130132257](Pasted%20image%2020250130132257.png)
+
+![Pasted image 20250130150532](Pasted%20image%2020250130150532.png)
+
+
+![Pasted image 20250130151206](Pasted%20image%2020250130151206.png)
+
+![Pasted image 20250130151334](Pasted%20image%2020250130151334.png)
+
+![Pasted image 20250130151718](Pasted%20image%2020250130151718.png)
+![Pasted image 20250130152208](Pasted%20image%2020250130152208.png)
+
+![Pasted image 20250130152807](Pasted%20image%2020250130152807.png)
+![Pasted image 20250130155349](Pasted%20image%2020250130155349.png)
+
+![Pasted image 20250130155652](Pasted%20image%2020250130155652.png)
 

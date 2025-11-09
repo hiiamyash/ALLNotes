@@ -36,22 +36,22 @@ Active recon can be classified as:
 - Admin contact info and address (unless withheld for privacy)
 - Tech contact info and address (unless withheld for privacy)
 
-![[Pasted image 20241207235843.png]]
+![Pasted image 20241207235843](Pasted%20image%2020241207235843.png)
 
 DNS queries can be executed with many different tools found on our systems, especially Unix-like systems. One common tool found on Unix-like systems, Windows, and macOS is `nslookup`
 
-![[Pasted image 20241208000019.png]]
+![Pasted image 20241208000019](Pasted%20image%2020241208000019.png)
 
 another tool commonly found on Unix-like systems is `dig`, short for Domain Information Groper (dig). `dig` provides a lot of query options and even allows you to specify a different DNS server to use. For example, we can use Cloudflare's DNS server: `dig @1.1.1.1 tryhackme.com`
 
-![[Pasted image 20241208000148.png]]
+![Pasted image 20241208000148](Pasted%20image%2020241208000148.png)
 
-![[Pasted image 20241208000257.png]]
+![Pasted image 20241208000257](Pasted%20image%2020241208000257.png)
 
 
 The final tool that ships with Unix-like systems is `traceroute`, or on MS Windows systems, `tracert`. As the name indicates, it traces the route taken by the packets from our system to the target host. The console output below shows that `traceroute` provided us with the routers (hops) connecting us to the target system. It's worth stressing that some routers don’t respond to the packets sent by `traceroute`, and as a result, we don’t see their IP addresses; a `*` is used to indicate such a case.
 
-![[Pasted image 20241208000443.png]]
+![Pasted image 20241208000443](Pasted%20image%2020241208000443.png)
 
 In summary, we can always rely on:
 
@@ -124,7 +124,7 @@ it's worthwhile checking the following:
 
 Note that the [Wayback Machine](https://archive.org/web/) can be helpful to retrieve previous versions of a job opening page on your client’s site.
 
-![[Pasted image 20241208003024.png]]
+![Pasted image 20241208003024](Pasted%20image%2020241208003024.png)
 
 <h1>Specialized Search Engines</h1>
 
@@ -162,9 +162,9 @@ In the figure below, we used reverse IP lookup to find other servers sharing the
 
 Let’s demonstrate a simple example of looking up information about one of the IP addresses we got from `nslookup cafe.thmredteam.com`. Using `shodan host IP_ADDRESS`, we can get the geographical location of the IP address and the open ports, as shown below.
 
-![[Pasted image 20241208004535.png]]
+![Pasted image 20241208004535](Pasted%20image%2020241208004535.png)
 
-![[Pasted image 20241208004706.png]]
+![Pasted image 20241208004706](Pasted%20image%2020241208004706.png)
 
 
 <h1>Recon-ng</h1>

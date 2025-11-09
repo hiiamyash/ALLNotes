@@ -1,5 +1,5 @@
 
-![[Pasted image 20250401184429.png]]
+![Pasted image 20250401184429](Pasted%20image%2020250401184429.png)
 
 **javascript allows to change the type of interger during thee runtime
 
@@ -9,19 +9,19 @@
 - **Var
 - **let
 
-![[Pasted image 20250401184953.png]]
+![Pasted image 20250401184953](Pasted%20image%2020250401184953.png)
 
-![[Pasted image 20250401185125.png]]
+![Pasted image 20250401185125](Pasted%20image%2020250401185125.png)
 
 **let ki madad se Block ke ander ki baat block mai hi rahti hai 
 agar humne block me andar b ki value change ki using let then uski value sirf block mai hi change hogi globally nahi while agar var use kiya tho block mai bhi change ho gi and globlaay bhii**
 
 
-![[Pasted image 20250401185552.png]]
+![Pasted image 20250401185552](Pasted%20image%2020250401185552.png)
 **you can do this with let 
 
 
-![[Pasted image 20250401185813.png]]
+![Pasted image 20250401185813](Pasted%20image%2020250401185813.png)
 
 **const can not be undefined
 ```js
@@ -36,9 +36,9 @@ const x =3; // tthis will not throw error
 ### **7 Types of primitive data types
 
 
-![[Pasted image 20250401190550.png]]
+![Pasted image 20250401190550](Pasted%20image%2020250401190550.png)
 
-![[Pasted image 20250401190920.png]]
+![Pasted image 20250401190920](Pasted%20image%2020250401190920.png)
 
 ```js
 // nn bb ss u primitive data types in js
@@ -66,7 +66,7 @@ console.log(typeof b) // this will print what
 
 ### **Objects in JS
 
-![[Pasted image 20250401203555.png]]
+![Pasted image 20250401203555](Pasted%20image%2020250401203555.png)
 ```js
 // Non -primitive data type in python is Objects
 const item={
@@ -88,10 +88,10 @@ console.log(item["Harry"])
 ## Questions
 
 
-![[Pasted image 20250401204447.png]]
+![Pasted image 20250401204447](Pasted%20image%2020250401204447.png)
 
 
-![[Pasted image 20250401204433.png]]
+![Pasted image 20250401204433](Pasted%20image%2020250401204433.png)
 
 **in the above image you can see the output
 
@@ -140,7 +140,7 @@ a1['name'] = "lovish" //here you are editing an existing key value pair
 
 ```
 
-![[Pasted image 20250401221426.png]]
+![Pasted image 20250401221426](Pasted%20image%2020250401221426.png)
 this wil print the value of yaka 
 
 another way would be

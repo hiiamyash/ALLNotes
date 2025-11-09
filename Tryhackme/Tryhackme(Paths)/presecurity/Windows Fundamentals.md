@@ -25,7 +25,7 @@ Each group has permissions set to it, and users are assigned/added to groups by 
 <h3>**User Account Control** (UAC)</h3>
 How does UAC work? When a user with an account type of administrator logs into a system, the current session doesn't run with elevated permissions. When an operation requiring higher-level privileges needs to execute, the user will be prompted to confirm if they permit the operation to run
 
-![[Pasted image 20241204140413.png]]
+![Pasted image 20241204140413](Pasted%20image%2020241204140413.png)
 
 
 <h1>Windows Fundamental 2</h1>
@@ -33,7 +33,7 @@ How does UAC work? When a user with an account type of administrator logs into a
 <h3>introduction</h3>
 
 <h4>Change UAC Settings</h4>
-![[Pasted image 20241204143121.png]]
+![Pasted image 20241204143121](Pasted%20image%2020241204143121.png)
 
 <h3>Computer Management</h3>
 We're continuing with Tools that are available through the System Configuration panel.  
@@ -48,8 +48,8 @@ Let's start with **Task Scheduler**. Per Microsoft, with Task Scheduler, we can 
 
 Event Viewer allows us to view events that have occurred on the computer. These records of events can be seen as an audit trail that can be used to understand the activity of the computer system
 
-![[Pasted image 20241204143931.png]]
-![[Pasted image 20241204144035.png]]
+![Pasted image 20241204143931](Pasted%20image%2020241204143931.png)
+![Pasted image 20241204144035](Pasted%20image%2020241204144035.png)
 
 regisrty se logs
 
