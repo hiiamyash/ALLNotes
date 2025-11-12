@@ -2,16 +2,16 @@
 #active #windows 
 
 
-![Pasted image 20250327092743](Pasted%20image%2020250327092743.png)
+![[Pasted image 20250327092743.png]]
 
 **using policy you can control what access does the User have and how i machiine is used
 
-![Pasted image 20250327093029](Pasted%20image%2020250327093029.png)
+![[Pasted image 20250327093029.png]]
 
-![Pasted image 20250327152557](Pasted%20image%2020250327152557.png)
+![[Pasted image 20250327152557.png]]
 
-![Pasted image 20250327161726](Pasted%20image%2020250327161726.png)
-![Pasted image 20250327161933](Pasted%20image%2020250327161933.png)
+![[Pasted image 20250327161726.png]]
+![[Pasted image 20250327161933.png]]
 **if you are trying to find an GPO for an particular OU then do the above
 
 

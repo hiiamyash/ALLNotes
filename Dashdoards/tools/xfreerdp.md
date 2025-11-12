@@ -22,3 +22,11 @@ xfreerdp /v:10.10.10.100 /u:Administrator /p:P@ssw0rd123 /cert:ignore /size:1600
 `With Drive Sharing`
 
 
+```
+ xfreerdp /v:10.129.204.23 /u:Administrator /p:AnotherC0mpl3xP4$$ /cert:ignore -sec-nla
+```
+
+```
+xfreerdp3 /v:10.129.204.23 /u:Administrator /p:AnotherC0mpl3xP4$$ /cert:ignore /sec:nla:off
+```
+

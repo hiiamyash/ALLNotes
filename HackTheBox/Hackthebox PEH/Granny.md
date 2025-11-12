@@ -1,20 +1,20 @@
 #linBox #linux #HTB
 
-![Exported image](Exported%20image%2020241212233442-0.png)  
-![Exported image](Exported%20image%2020241212233447-1.png)  
-![Exported image](Exported%20image%2020241212233449-2.png)  
-![Exported image](Exported%20image%2020241212233452-3.png)  
-![Exported image](Exported%20image%2020241212233455-4.png)  
-![Exported image](Exported%20image%2020241212233500-5.png)  
-![Exported image](Exported%20image%2020241212233502-6.png)  
-![Exported image](Exported%20image%2020241212233504-7.png)  
-![Exported image](Exported%20image%2020241212233506-8.png)  
-![Exported image](Exported%20image%2020241212233508-9.png)  
-![Exported image](Exported%20image%2020241212233510-10.png)  
-![Exported image](Exported%20image%2020241212233512-11.png)  
-![Exported image](Exported%20image%2020241212233517-12.png)  
-![Exported image](Exported%20image%2020241212233520-13.png)  
-![Exported image](Exported%20image%2020241212233523-14.png)  
-![Exported image](Exported%20image%2020241212233525-15.png)  
-![Exported image](Exported%20image%2020241212233527-16.png)  
-![Exported image](Exported%20image%2020241212233528-17.png)
+![[Exported image 20241212233442-0.png|Exported image]]  
+![[Exported image 20241212233447-1.png|Exported image]]  
+![[Exported image 20241212233449-2.png|Exported image]]  
+![[Exported image 20241212233452-3.png|Exported image]]  
+![[Exported image 20241212233455-4.png|Exported image]]  
+![[Exported image 20241212233500-5.png|Exported image]]  
+![[Exported image 20241212233502-6.png|Exported image]]  
+![[Exported image 20241212233504-7.png|Exported image]]  
+![[Exported image 20241212233506-8.png|Exported image]]  
+![[Exported image 20241212233508-9.png|Exported image]]  
+![[Exported image 20241212233510-10.png|Exported image]]  
+![[Exported image 20241212233512-11.png|Exported image]]  
+![[Exported image 20241212233517-12.png|Exported image]]  
+![[Exported image 20241212233520-13.png|Exported image]]  
+![[Exported image 20241212233523-14.png|Exported image]]  
+![[Exported image 20241212233525-15.png|Exported image]]  
+![[Exported image 20241212233527-16.png|Exported image]]  
+![[Exported image 20241212233528-17.png|Exported image]]

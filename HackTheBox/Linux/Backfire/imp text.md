@@ -23,7 +23,7 @@ index abdf1b5..6be76fb 100644
      SslConf.setPeerVerifyMode( QSslSocket::VerifyNone );
 -    Socket->setSslConfiguration( SslConf );
      Socket->ignoreSslErrors();
-     QObject::connect( Socket, &QWebSocket::binaryMessageReceived, this, [&](%20const%20QByteArray&%20Message%20)
+     QObject::connect( Socket, &QWebSocket::binaryMessageReceived, this, [[ const QByteArray& Message |&]]
 diff --git a/teamserver/cmd/server/teamserver.go b/teamserver/cmd/server/teamserver.go
 index 9d1c21f..59d350d 100644
 --- a/teamserver/cmd/server/teamserver.go

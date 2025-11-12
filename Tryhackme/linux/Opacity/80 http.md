@@ -1,6 +1,6 @@
 80/tcp open http Apache httpd 2.4.41 ((Ubuntu))
 
-![Exported image](Exported%20image%2020241213185359-0.png)
+![[Exported image 20241213185359-0.png|Exported image]]
 
 TO-DO  
 -gobuster   /.php (Status: 403) [Size: 276]  
@@ -43,12 +43,12 @@ nikto -h [http://opacity.thm](http://opacity.thm)
  
 ----/cloud directory looks intresting
 
-![Exported image](Exported%20image%2020241213185404-1.png)
+![[Exported image 20241213185404-1.png|Exported image]]
 
 Bypassing file extension filters
- ![Exported image](Exported%20image%2020241213185406-2.png)  
-![Exported image](Exported%20image%2020241213185409-3.png)
+ ![[Exported image 20241213185406-2.png|Exported image]]  
+![[Exported image 20241213185409-3.png|Exported image]]
 
 [http://10.10.102.197/cloud/images/shell.php](http://10.10.102.197/cloud/images/shell.php)
 
-![Exported image](Exported%20image%2020241213185411-4.png)
+![[Exported image 20241213185411-4.png|Exported image]]

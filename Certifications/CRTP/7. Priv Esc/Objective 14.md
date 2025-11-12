@@ -1,5 +1,5 @@
 
-![Pasted image 20250621175917](Pasted%20image%2020250621175917.png)
+![[Pasted image 20250621175917.png]]
 
 ```
 Get-DomainUser -SPN

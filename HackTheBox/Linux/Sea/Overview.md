@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020241213184410-0.png)
+![[Exported image 20241213184410-0.png|Exported image]]
 
 PORT STATE SERVICE VERSION  
 22/tcp open ssh OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)  

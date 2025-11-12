@@ -1,15 +1,15 @@
-![Exported image](Exported%20image%2020241213144010-0.png)  
-![Exported image](Exported%20image%2020241213144015-1.png)  
-![Exported image](Exported%20image%2020241213144018-2.png)  
-![Exported image](Exported%20image%2020241213144020-3.png)  
-![Exported image](Exported%20image%2020241213144024-4.png)  
-![Exported image](Exported%20image%2020241213144026-5.png)  
-![Exported image](Exported%20image%2020241213144028-6.png)  
-![Exported image](Exported%20image%2020241213144030-7.png)  
-![Exported image](Exported%20image%2020241213144036-8.png)  
-![Exported image](Exported%20image%2020241213144039-9.png)  
-![Exported image](Exported%20image%2020241213144041-10.png)  
-![Exported image](Exported%20image%2020241213144044-11.png)  
-![Exported image](Exported%20image%2020241213144047-12.png)  
-![Exported image](Exported%20image%2020241213144050-13.png)  
-![Exported image](Exported%20image%2020241213144053-14.png)
+![[Exported image 20241213144010-0.png|Exported image]]  
+![[Exported image 20241213144015-1.png|Exported image]]  
+![[Exported image 20241213144018-2.png|Exported image]]  
+![[Exported image 20241213144020-3.png|Exported image]]  
+![[Exported image 20241213144024-4.png|Exported image]]  
+![[Exported image 20241213144026-5.png|Exported image]]  
+![[Exported image 20241213144028-6.png|Exported image]]  
+![[Exported image 20241213144030-7.png|Exported image]]  
+![[Exported image 20241213144036-8.png|Exported image]]  
+![[Exported image 20241213144039-9.png|Exported image]]  
+![[Exported image 20241213144041-10.png|Exported image]]  
+![[Exported image 20241213144044-11.png|Exported image]]  
+![[Exported image 20241213144047-12.png|Exported image]]  
+![[Exported image 20241213144050-13.png|Exported image]]  
+![[Exported image 20241213144053-14.png|Exported image]]

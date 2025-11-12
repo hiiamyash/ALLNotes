@@ -3,7 +3,7 @@
 
 retro                   [Status: 301, Size: 146, Words: 9, Lines: 2, Duration: 454ms]
 
-![Pasted image 20250106232141](Pasted%20image%2020250106232141.png)
+![[Pasted image 20250106232141.png]]
 
 wp-content              [Status: 301, Size: 157, Words: 9, Lines: 2, Duration: 401ms]
 wp-includes             [Status: 301, Size: 158, Words: 9, Lines: 2, Duration: 395ms]

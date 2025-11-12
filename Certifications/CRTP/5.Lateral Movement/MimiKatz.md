@@ -1,8 +1,8 @@
 #active 
 #windows
-![Pasted image 20250407090553](Pasted%20image%2020250407090553.png)
+![[Pasted image 20250407090553.png]]
 
-![Pasted image 20250407095921](Pasted%20image%2020250407095921.png)
+![[Pasted image 20250407095921.png]]
 
 Runs SafetyKatz beacuse mimikatz can be easily detected
 
@@ -14,7 +14,7 @@ The NTDS.DIT file is a crucial component of Microsoft's Active Directory Domain 
 
 
 
-![Pasted image 20250407101216](Pasted%20image%2020250407101216.png)
+![[Pasted image 20250407101216.png]]
 
 Difference Between Over pass the hash and Pass the hash is that Over-pass the hash will compramise the Domain users and Pass the hash will compromise the local users
 
@@ -51,12 +51,12 @@ Difference Between Over pass the hash and Pass the hash is that Over-pass the ha
 - Perfect for **pivoting** across the environment.
 
 
-![Pasted image 20250407101756](Pasted%20image%2020250407101756.png)
+![[Pasted image 20250407101756.png]]
 
 performing OPTH using safteykatz.exe you need Administrative cmd but using Rubeus you can perform OPTH without the administrative cmd
 
 
 
-![Pasted image 20250407102009](Pasted%20image%2020250407102009.png)
+![[Pasted image 20250407102009.png]]
 above command can be used to get kerbrobe tokens
 

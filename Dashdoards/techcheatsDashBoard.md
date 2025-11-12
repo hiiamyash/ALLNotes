@@ -2,7 +2,7 @@
 
 # Installations
 
-[PortonVPN](PortonVPN.md.md)
+[[PortonVPN.md.md|PortonVPN]]
 
 
 # Active Directory
@@ -13,7 +13,7 @@
 
 # CHeatSheest
 
-[WinPriv Cheet 1](WinPriv%20Cheet%201.md.md)
+[[WinPriv Cheet 1.md.md|WinPriv Cheet 1]]
 
-[Linpriv Cheet 1](Linpriv%20Cheet%201.md.md)
+[[Linpriv Cheet 1.md.md|Linpriv Cheet 1]]
 

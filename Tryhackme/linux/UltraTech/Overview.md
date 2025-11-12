@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020241213213355-0.png)
+![[Exported image 20241213213355-0.png|Exported image]]
 
 nmap -p 21,22,8081 -sC -sV -A 10.10.30.86  
 Starting Nmap 7.94SVN ( [https://nmap.org](https://nmap.org) ) at 2024-09-05 16:07 IST  
@@ -20,5 +20,5 @@ Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at [https://nmap.org/submit/](https://nmap.org/submit/) .  
 Nmap done: 1 IP address (1 host up) scanned in 25.20 seconds
 
-![Exported image](Exported%20image%2020241213213357-1.png) ![Exported image](Exported%20image%2020241213213359-2.png)  
-![Exported image](Exported%20image%2020241213213401-3.png)
+![[Exported image 20241213213357-1.png|Exported image]] ![[Exported image 20241213213359-2.png|Exported image]]  
+![[Exported image 20241213213401-3.png|Exported image]]

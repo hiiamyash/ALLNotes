@@ -1,29 +1,29 @@
 
 #winpriv #windows
 
-![Exported image](Exported%20image%2020241213161307-0.png)  
-![Exported image](Exported%20image%2020241213161309-1.png)  
-![Exported image](Exported%20image%2020241213161311-2.png)  
-![Exported image](Exported%20image%2020241213161314-3.png)  
-![Exported image](Exported%20image%2020241213161316-4.png)  
-![Exported image](Exported%20image%2020241213161318-5.png)  
-![Exported image](Exported%20image%2020241213161324-6.png)  
-![Exported image](Exported%20image%2020241213161326-7.png)  
-![Exported image](Exported%20image%2020241213161328-8.png)  
-![Exported image](Exported%20image%2020241213161331-9.png)  
-![Exported image](Exported%20image%2020241213161333-10.png)  
-![Exported image](Exported%20image%2020241213161335-11.png)  
-![Exported image](Exported%20image%2020241213161337-12.png)  
-![Exported image](Exported%20image%2020241213161343-13.png)  
-![Exported image](Exported%20image%2020241213161345-14.png)  
-![Exported image](Exported%20image%2020241213161347-15.png)  
-![Exported image](Exported%20image%2020241213161349-16.png)  
-![Exported image](Exported%20image%2020241213161352-17.png)  
-![Exported image](Exported%20image%2020241213161354-18.png)  
-![Exported image](Exported%20image%2020241213161356-19.png)  
-![Exported image](Exported%20image%2020241213161401-20.png)  
-![Exported image](Exported%20image%2020241213161404-21.png)  
-![Exported image](Exported%20image%2020241213161407-22.png)  
-![Exported image](Exported%20image%2020241213161409-23.png)  
-![Exported image](Exported%20image%2020241213161412-24.png)  
-![Exported image](Exported%20image%2020241213161415-25.png)
+![[Exported image 20241213161307-0.png|Exported image]]  
+![[Exported image 20241213161309-1.png|Exported image]]  
+![[Exported image 20241213161311-2.png|Exported image]]  
+![[Exported image 20241213161314-3.png|Exported image]]  
+![[Exported image 20241213161316-4.png|Exported image]]  
+![[Exported image 20241213161318-5.png|Exported image]]  
+![[Exported image 20241213161324-6.png|Exported image]]  
+![[Exported image 20241213161326-7.png|Exported image]]  
+![[Exported image 20241213161328-8.png|Exported image]]  
+![[Exported image 20241213161331-9.png|Exported image]]  
+![[Exported image 20241213161333-10.png|Exported image]]  
+![[Exported image 20241213161335-11.png|Exported image]]  
+![[Exported image 20241213161337-12.png|Exported image]]  
+![[Exported image 20241213161343-13.png|Exported image]]  
+![[Exported image 20241213161345-14.png|Exported image]]  
+![[Exported image 20241213161347-15.png|Exported image]]  
+![[Exported image 20241213161349-16.png|Exported image]]  
+![[Exported image 20241213161352-17.png|Exported image]]  
+![[Exported image 20241213161354-18.png|Exported image]]  
+![[Exported image 20241213161356-19.png|Exported image]]  
+![[Exported image 20241213161401-20.png|Exported image]]  
+![[Exported image 20241213161404-21.png|Exported image]]  
+![[Exported image 20241213161407-22.png|Exported image]]  
+![[Exported image 20241213161409-23.png|Exported image]]  
+![[Exported image 20241213161412-24.png|Exported image]]  
+![[Exported image 20241213161415-25.png|Exported image]]

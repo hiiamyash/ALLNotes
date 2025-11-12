@@ -1,12 +1,12 @@
 #networking #basics
 
-![Exported image](Exported%20image%2020241212230840-0.png)
+![[Exported image 20241212230840-0.png|Exported image]]
 
 Please do not throw sambhar pizaa away   
 
-![Exported image](Exported%20image%2020241212230843-1.png)  
-![Exported image](Exported%20image%2020241212230845-2.png)  
-![Exported image](Exported%20image%2020241212230847-3.png)  
-![Exported image](Exported%20image%2020241212230850-4.png)  
-![Exported image](Exported%20image%2020241212230855-5.png)  
-![Exported image](Exported%20image%2020241212230857-6.png)
+![[Exported image 20241212230843-1.png|Exported image]]  
+![[Exported image 20241212230845-2.png|Exported image]]  
+![[Exported image 20241212230847-3.png|Exported image]]  
+![[Exported image 20241212230850-4.png|Exported image]]  
+![[Exported image 20241212230855-5.png|Exported image]]  
+![[Exported image 20241212230857-6.png|Exported image]]

@@ -1,11 +1,11 @@
-![Pasted image 20250621142921](Pasted%20image%2020250621142921.png)
+![[Pasted image 20250621142921.png]]
 
-![Pasted image 20250621143207](Pasted%20image%2020250621143207.png)
+![[Pasted image 20250621143207.png]]
 
-![Pasted image 20250621143227](Pasted%20image%2020250621143227.png)
+![[Pasted image 20250621143227.png]]
 
 
-![Pasted image 20250621143443](Pasted%20image%2020250621143443.png)
+![[Pasted image 20250621143443.png]]
 
 command to manual trigger the propogater
 
@@ -22,11 +22,11 @@ Invoke-Command -ScriptBlock{Invoke-SDPropagator -showProgress -Verbose-timeoutMi
 
 in this attck insted of adding your user to the domain admin group add it to the adminSDHolder so after an hour when it overwrites evvryprotected group your user will we added to evry protected group
 
-![Pasted image 20250621163525](Pasted%20image%2020250621163525.png)
+![[Pasted image 20250621163525.png]]
 
-![Pasted image 20250621163552](Pasted%20image%2020250621163552.png)
+![[Pasted image 20250621163552.png]]
 
-![Pasted image 20250621163604](Pasted%20image%2020250621163604.png)
+![[Pasted image 20250621163604.png]]
 
 # DCsync attack
 

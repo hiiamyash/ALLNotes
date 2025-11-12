@@ -1,24 +1,24 @@
 
 
-![Pasted image 20250214103420](Pasted%20image%2020250214103420.png)
-![Pasted image 20250214103545](Pasted%20image%2020250214103545.png)
+![[Pasted image 20250214103420.png]]
+![[Pasted image 20250214103545.png]]
 
 
-![Pasted image 20250214103648](Pasted%20image%2020250214103648.png)
+![[Pasted image 20250214103648.png]]
 
 
 
-![Pasted image 20250214103409](Pasted%20image%2020250214103409.png)
+![[Pasted image 20250214103409.png]]
 
 
-![Pasted image 20250214105234](Pasted%20image%2020250214105234.png)
+![[Pasted image 20250214105234.png]]
 
-![Pasted image 20250214105305](Pasted%20image%2020250214105305.png)
-
-
-![Pasted image 20250214121218](Pasted%20image%2020250214121218.png)
+![[Pasted image 20250214105305.png]]
 
 
-![Pasted image 20250214121154](Pasted%20image%2020250214121154.png)![Pasted image 20250214121154](Pasted%20image%2020250214121154.png)
+![[Pasted image 20250214121218.png]]
 
-![Pasted image 20250214123434](Pasted%20image%2020250214123434.png)
+
+![[Pasted image 20250214121154.png]]![[Pasted image 20250214121154.png]]
+
+![[Pasted image 20250214123434.png]]

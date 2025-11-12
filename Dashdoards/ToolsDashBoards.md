@@ -1,7 +1,7 @@
 
 # Activedirectory
 
-[responder](responder.md.md)
+[[responder.md.md|responder]]
 
 
 
@@ -10,24 +10,24 @@
 # Network Exploitation / Enum
 
 
-[smbmap](smbmap.md.md)
-[netexec](netexec.md.md)
+[[smbmap.md.md|smbmap]]
+[[netexec.md.md|netexec]]
 
 
 # Web Exploitation
 
-[curl](curl.md.md)
+[[curl.md.md|curl]]
 
 
 # Transfering Files
 
 
-[Certutil](Certutil.md.md)
+[[Certutil.md.md|Certutil]]
 
 
 
 
 # General Tools
 
-[git](git.md.md)
+[[git.md.md|git]]
 

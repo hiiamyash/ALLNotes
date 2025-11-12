@@ -1,12 +1,12 @@
 #active #windows #internalPentest 
 
-![Pasted image 20250403200052](Pasted%20image%2020250403200052.png)
+![[Pasted image 20250403200052.png]]
 
-![Pasted image 20250403200922](Pasted%20image%2020250403200922.png)
+![[Pasted image 20250403200922.png]]
 
 
 This down below is for the third attck
-![Pasted image 20250403200905](Pasted%20image%2020250403200905.png)
+![[Pasted image 20250403200905.png]]
 Above is how you will check for overpermissive ACL DACL 
 
 at the end we can see WD
