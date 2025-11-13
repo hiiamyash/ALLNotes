@@ -1,7 +1,11 @@
 
 #active #windows 
 
+<<<<<<< HEAD
 ![[../../../attchments/Pasted image 20250123173332.png]]
+=======
+![Alt text for your image](/attchments/Exported%20image%2020241212230406-1.png)
+>>>>>>> origin/main
 
 ![[../../../attchments/Pasted image 20251109152430.png]]
 
