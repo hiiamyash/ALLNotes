@@ -137,7 +137,7 @@ An Active Directory environment contains various accounts with the necessary per
 - Domain Administrators are user accounts that can manage information in an Active Directory environment, including AD configurations, users, groups, permissions, roles, services, etc. One of the red team goals in engagement is to hunt for information that leads to a domain administrator having complete
 
 
-![[Recording 20241221223322.m4a]]
+![[../../../../attchments/Recording 20241221223322.m4a]]
 
 The following are Active Directory Administrators accounts:
 

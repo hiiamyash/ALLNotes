@@ -1,5 +1,5 @@
 
-![[Pasted image 20250201180244.png]]
+![[../../../attchments/Pasted image 20250201180244.png]]
 
 terminal ,logcat, Divice File Explorer
 

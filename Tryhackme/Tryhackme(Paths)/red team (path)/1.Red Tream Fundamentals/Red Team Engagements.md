@@ -38,7 +38,7 @@ Learning Objectives
 
 Rules of Engagement (RoE) are a legally binding outline of the client objectives and scope with further details of engagement expectations between both parties.
 
-![[Pasted image 20241205015459.png]]
+![[../../../../attchments/Pasted image 20241205015459.png]]
 
 <h3>Campaign Planning</h3>
 

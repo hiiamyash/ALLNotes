@@ -1,8 +1,8 @@
 
-![[Pasted image 20250403100519.png]]
+![[../../../attchments/Pasted image 20250403100519.png]]
 
 
-![[Pasted image 20250403100627.png]]
+![[../../../attchments/Pasted image 20250403100627.png]]
 
 
 ```js
@@ -364,7 +364,7 @@ console.log(Number("John"))
 
 
 
-![[Pasted image 20250403104951.png]]
+![[../../../attchments/Pasted image 20250403104951.png]]
 
 
 ```js
@@ -526,15 +526,15 @@ console.log(x2)
 ```
 
 
-![[Pasted image 20250403134851.png]]
+![[../../../attchments/Pasted image 20250403134851.png]]
 
 
-![[Pasted image 20250403135658.png]]
+![[../../../attchments/Pasted image 20250403135658.png]]
 
-![[Pasted image 20250403141525.png]]
+![[../../../attchments/Pasted image 20250403141525.png]]
 
 
-![[Pasted image 20250403150347.png]]
+![[../../../attchments/Pasted image 20250403150347.png]]
 
 
 

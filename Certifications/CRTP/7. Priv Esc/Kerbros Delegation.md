@@ -1,29 +1,29 @@
 
-![[Pasted image 20250627173222.png]]
+![[../../../attchments/Pasted image 20250627173222.png]]
 
-![[Pasted image 20250627173234.png]]
-![[Pasted image 20250627173208.png]]
+![[../../../attchments/Pasted image 20250627173234.png]]
+![[../../../attchments/Pasted image 20250627173208.png]]
 
-![[Pasted image 20250627173444.png]]
+![[../../../attchments/Pasted image 20250627173444.png]]
 
-![[Pasted image 20250627175018.png]]
+![[../../../attchments/Pasted image 20250627175018.png]]
 
 
 # Steps to abuse
 
 **FInd find the users that has uncontsained delegation enabled
 
-![[Pasted image 20250627175427.png]]
+![[../../../attchments/Pasted image 20250627175427.png]]
 
-![[Pasted image 20250627175501.png]]
+![[../../../attchments/Pasted image 20250627175501.png]]
 
-![[Pasted image 20250627175649.png]]
+![[../../../attchments/Pasted image 20250627175649.png]]
 
 you can force server2 to connect to the server 1
 
-![[Pasted image 20250627175809.png]]
+![[../../../attchments/Pasted image 20250627175809.png]]
 
-![[Pasted image 20250627175817.png]]
+![[../../../attchments/Pasted image 20250627175817.png]]
 
 
 ### Kerberos Delegation (in general)

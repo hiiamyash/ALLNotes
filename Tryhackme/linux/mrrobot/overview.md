@@ -1,1 +1,1 @@
-![[Exported image 20241213185323-0.png|Exported image]]
+![[../../../attchments/Exported image 20241213185323-0.png|Exported image]]

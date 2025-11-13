@@ -1,8 +1,8 @@
 
-![[Pasted image 20250401225437.png]]
+![[../../../attchments/Pasted image 20250401225437.png]]
 
-![[Pasted image 20250401225634.png]]
-![[Pasted image 20250401225644.png]]
+![[../../../attchments/Pasted image 20250401225634.png]]
+![[../../../attchments/Pasted image 20250401225644.png]]
 
 ```js
 let a = prompt("Hey whats you age?");
@@ -22,7 +22,7 @@ while in switch after executing the true one the rest of the statement also gets
 
 ### Ternary operator
 
-![[Pasted image 20250401231958.png]]
+![[../../../attchments/Pasted image 20250401231958.png]]
 
-![[Pasted image 20250401232123.png]]
+![[../../../attchments/Pasted image 20250401232123.png]]
 

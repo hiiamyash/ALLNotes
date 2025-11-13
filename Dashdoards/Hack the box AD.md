@@ -6,8 +6,8 @@ singin in not possible
 # Ldap
 
 
-![[Pasted image 20250910230753.png]]
+![[../attchments/Pasted image 20250910230753.png]]
 
-![[Pasted image 20250910232134.png]]
+![[../attchments/Pasted image 20250910232134.png]]
 
-![[Pasted image 20250910232227.png]]
+![[../attchments/Pasted image 20250910232227.png]]

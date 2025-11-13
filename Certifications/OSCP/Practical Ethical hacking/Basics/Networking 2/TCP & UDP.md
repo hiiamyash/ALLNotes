@@ -4,7 +4,7 @@
 
 UDP is user data gram protocol
 
-![[Exported image 20241212230831-0.png|Exported image]]
+![[../../../../../attchments/Exported image 20241212230831-0.png|Exported image]]
 
 Three way handshake
  

@@ -100,7 +100,7 @@ On a Debian-based Linux system, you can get the list of installed packages using
 Files such as `/etc/passwd` reveal the usernames; however, various commands can provide more information and insights about other users on the system and their whereabouts.
 
 You can show who is logged in using `who`.
-![[Pasted image 20250108225853.png]]
+![[../../../../attchments/Pasted image 20250108225853.png]]
 
 We can see that the user `root` is logged in to the system directly, while the users `jane` and `peter` are connected over the network, and we can see their IP addresses.
 
@@ -109,7 +109,7 @@ Note that `who` should not be confused with `whoami` which prints **your** effec
 
 To take things to the next level, you can use `w`, which shows who is logged in and what they are doing. Based on the terminal output below, `peter` is editing `notes.txt` and `jane` is the one running `w` in this example.
 
-![[Pasted image 20250108225946.png]]
+![[../../../../attchments/Pasted image 20250108225946.png]]
 To print the real and effective user and group IDS, you can issue the command `id` (for ID)
 
 
@@ -117,7 +117,7 @@ To print the real and effective user and group IDS, you can issue the command `i
 
 Do you want to know who has been using the system recently? `last` displays a listing of the last logged-in users; moreover, we can see who logged out and how much they stayed connected. In the output below, the user `randa` remained logged in for almost 17 hours, while the user `michael` logged out after four minutes.
 
-![[Pasted image 20250108230216.png]]
+![[../../../../attchments/Pasted image 20250108230216.png]]
 
 Finally, it is worth mentioning that `sudo -l` lists the allowed command for the invoking user on the current system.
 
@@ -130,7 +130,7 @@ The IP addresses can be shown using `ip address show` (which can be shortened to
 
 The DNS servers can be found in the `/etc/resolv.conf`. Consider the following terminal output for a system that uses DHCP for its network configurations. The DNS, i.e. nameserver, is set to `10.20.30.2`.
 
-![[Pasted image 20250109004828.png]]
+![[../../../../attchments/Pasted image 20250109004828.png]]
 
 `netstat` is a useful command for learning about network connections, routing tables, and interface statistics. We explain some of its many options in the table below.
 
@@ -146,18 +146,18 @@ The DNS servers can be found in the `/etc/resolv.conf`. Consider the following t
 
 You can use any combination that suits your needs. For instance, `netstat -plt` will return _Programs Listening on TCP_ sockets. As we can see in the terminal output below, `sshd` is listening on the SSH port, while `master` is listening on the SMTP port on both IPv4 and IPv6 addresses. Note that to get all PID (process ID) and program names, you need to run `netstat` as root or use `sudo netstat`.
 
-![[Pasted image 20250109004948.png]]
+![[../../../../attchments/Pasted image 20250109004948.png]]
 
 `netstat -atupn` will show _All TCP and UDP_ listening and established connections and the _program_ names with addresses and ports in _numeric_ format.
 
-![[Pasted image 20250109005028.png]]
+![[../../../../attchments/Pasted image 20250109005028.png]]
 
 `lsof` stands for List Open Files. If we want to display only Internet and network connections, we can use `lsof -i`. The terminal output below shows IPv4 and IPv6 listening services and ongoing connections. The user `peter` is connected to the server `rpm-red-enum.thm` on the `ssh` port.
 
-![[Pasted image 20250109005149.png]]
+![[../../../../attchments/Pasted image 20250109005149.png]]
 Because the list can get quite lengthy, you can further filter the output by specifying the ports you are interested in, such as SMTP port 25. By running `lsof -i :25`, we limit the output to those related to port 25,
 
-![[Pasted image 20250109005235.png]]
+![[../../../../attchments/Pasted image 20250109005235.png]]
 
 ## Running Services
 
@@ -166,7 +166,7 @@ or running services an processe
 ```
 ps aux
 ```
-![[Pasted image 20250109104247.png]]
+![[../../../../attchments/Pasted image 20250109104247.png]]
 `ps axjf`
 
 

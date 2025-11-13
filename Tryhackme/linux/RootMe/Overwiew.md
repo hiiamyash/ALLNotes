@@ -1,4 +1,4 @@
-![[Exported image 20241213185456-0.png|Exported image]]
+![[../../../attchments/Exported image 20241213185456-0.png|Exported image]]
 
 nmap -p 22,80 -sC -sV -A rootme.thm  
 Starting Nmap 7.94SVN ( [https://nmap.org](https://nmap.org) ) at 2024-09-05 14:45 IST  

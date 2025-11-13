@@ -39,6 +39,6 @@
 - **Asymmetric**: Public key encrypts, private key decrypts (e.g., RSA)
 
 
-![[Pasted image 20250706220415.png]]
+![[../../../../../attchments/Pasted image 20250706220415.png]]
 
 

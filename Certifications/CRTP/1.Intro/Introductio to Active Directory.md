@@ -1,9 +1,9 @@
 
 #active #windows 
 
-![[Pasted image 20250123173332.png]]
+![[../../../attchments/Pasted image 20250123173332.png]]
 
-![[Pasted image 20251109152430.png]]
+![[../../../attchments/Pasted image 20251109152430.png]]
 
 ### **What is a Domain Controller (DC) and Active Directory (AD)?**
 
@@ -21,8 +21,8 @@
 
 
 
-![[Pasted image 20250123173400.png]]
-![[Pasted image 20250123173538.png]]
+![[../../../attchments/Pasted image 20250123173400.png]]
+![[../../../attchments/Pasted image 20250123173538.png]]
 
 
 `Schema` defines objects and their attribute for example You have an objectc called User so its's attributes will be it's passowrd ,accoount, phone number,  privlages etc.
@@ -75,7 +75,7 @@ Company.com
 
 ```
 
-![[Pasted image 20250123183028.png]]
+![[../../../attchments/Pasted image 20250123183028.png]]
 
 if an domain in an forest is compramised then the enitre forest is compramised
 

@@ -1,7 +1,7 @@
 #networking #basics
 ## Smba (139,445)
 
-![[Pasted image 20250104222820.png]]
+![[../../../../../attchments/Pasted image 20250104222820.png]]
 
 ## rpcbind (111)
 
