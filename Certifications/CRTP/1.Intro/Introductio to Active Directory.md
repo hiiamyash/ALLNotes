@@ -2,12 +2,12 @@
 #active #windows 
 
 <<<<<<< HEAD
-![[../../../attchments/Pasted image 20250123173332.png]]
+![Pasted image 20250123173332](../../../attchments/Pasted%20image%2020250123173332.png)
 =======
 ![Alt text for your image](/attchments/Exported%20image%2020241212230406-1.png)
 >>>>>>> origin/main
 
-![[../../../attchments/Pasted image 20251109152430.png]]
+![Pasted image 20251109152430](../../../attchments/Pasted%20image%2020251109152430.png)
 
 ### **What is a Domain Controller (DC) and Active Directory (AD)?**
 
@@ -25,8 +25,8 @@
 
 
 
-![[../../../attchments/Pasted image 20250123173400.png]]
-![[../../../attchments/Pasted image 20250123173538.png]]
+![Pasted image 20250123173400](../../../attchments/Pasted%20image%2020250123173400.png)
+![Pasted image 20250123173538](../../../attchments/Pasted%20image%2020250123173538.png)
 
 
 `Schema` defines objects and their attribute for example You have an objectc called User so its's attributes will be it's passowrd ,accoount, phone number,  privlages etc.
@@ -79,7 +79,7 @@ Company.com
 
 ```
 
-![[../../../attchments/Pasted image 20250123183028.png]]
+![Pasted image 20250123183028](../../../attchments/Pasted%20image%2020250123183028.png)
 
 if an domain in an forest is compramised then the enitre forest is compramised
 

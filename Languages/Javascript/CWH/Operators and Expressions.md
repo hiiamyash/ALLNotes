@@ -1,5 +1,5 @@
 
-![[../../../attchments/Pasted image 20250401221928.png]]
+![Pasted image 20250401221928](../../../attchments/Pasted%20image%2020250401221928.png)
 
 ```js
 // 77;
@@ -61,19 +61,19 @@ codewithharry */
 
 ### **Assignment Operator
 
-![[../../../attchments/Pasted image 20250401224112.png]]
+![Pasted image 20250401224112](../../../attchments/Pasted%20image%2020250401224112.png)
 
 ### **Comparision Opereator
 
-![[../../../attchments/Pasted image 20250401224136.png]]
+![Pasted image 20250401224136](../../../attchments/Pasted%20image%2020250401224136.png)
 
-![[../../../attchments/Pasted image 20250401224234.png]]
+![Pasted image 20250401224234](../../../attchments/Pasted%20image%2020250401224234.png)
 
 **the output will be fist one will be false and secound one is true
 
 
-![[../../../attchments/Pasted image 20250401224437.png]]
-![[../../../attchments/Pasted image 20250401224458.png]]
+![Pasted image 20250401224437](../../../attchments/Pasted%20image%2020250401224437.png)
+![Pasted image 20250401224458](../../../attchments/Pasted%20image%2020250401224458.png)
 
  **in == it is comparing 6 with "6" and it is taking "6" as 6 value and giving true while in 6 line === is comparing 6 int value and "'6" as string so it is giving false
 
@@ -89,6 +89,6 @@ consonle.log(!true)//this will return false
 console.log(!false)//this will return true
 
 ```
-  ![[../../../attchments/Pasted image 20250401224736.png]]
+  ![Pasted image 20250401224736](../../../attchments/Pasted%20image%2020250401224736.png)
 
-![[../../../attchments/Pasted image 20250401225040.png]]
+![Pasted image 20250401225040](../../../attchments/Pasted%20image%2020250401225040.png)

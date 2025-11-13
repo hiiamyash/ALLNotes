@@ -10,7 +10,7 @@ Windows Executable file format, aka PE (Portable Executable), is a data struct
 
 
 
-![[../../../../../attchments/Pasted image 20250706124415.png]]
+![Pasted image 20250706124415](../../../../../attchments/Pasted%20image%2020250706124415.png)
 
 ## Data Section
 

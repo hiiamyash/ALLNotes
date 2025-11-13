@@ -1,4 +1,4 @@
-![[../../../attchments/Exported image 20241213184308-0.png|Exported image]]
+![Exported image](../../../attchments/Exported%20image%2020241213184308-0.png)
 
 nmap -p 80,22 -A -T4 10.10.10.84  
 Starting Nmap 7.94SVN ( [https://nmap.org](https://nmap.org) ) at 2024-11-13 14:35 IST  

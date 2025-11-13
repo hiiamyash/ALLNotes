@@ -1,6 +1,6 @@
-![[../../attchments/Exported image 20241213145250-0.png|Exported image]]  
-![[../../attchments/Exported image 20241213145252-1.png|Exported image]]  
-![[../../attchments/Exported image 20241213145258-2.png|Exported image]]  
-![[../../attchments/Exported image 20241213145301-3.png|Exported image]]  
-![[../../attchments/Exported image 20241213145303-4.png|Exported image]]  
-![[../../attchments/Exported image 20241213145305-5.png|Exported image]]
+![Exported image](../../attchments/Exported%20image%2020241213145250-0.png)  
+![Exported image](../../attchments/Exported%20image%2020241213145252-1.png)  
+![Exported image](../../attchments/Exported%20image%2020241213145258-2.png)  
+![Exported image](../../attchments/Exported%20image%2020241213145301-3.png)  
+![Exported image](../../attchments/Exported%20image%2020241213145303-4.png)  
+![Exported image](../../attchments/Exported%20image%2020241213145305-5.png)

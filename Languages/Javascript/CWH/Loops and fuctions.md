@@ -1,5 +1,5 @@
 
-![[../../../attchments/Pasted image 20250402081710.png]]
+![Pasted image 20250402081710](../../../attchments/Pasted%20image%2020250402081710.png)
 
 ```js
 for(i=0 ;i<555 ;i++){
@@ -16,7 +16,7 @@ console.log(i+1)
 }
 //output will be number form 1 to 554
 ```
-![[../../../attchments/Pasted image 20250402082236.png]]
+![Pasted image 20250402082236](../../../attchments/Pasted%20image%2020250402082236.png)
 
 ```js
 let sum=0
@@ -34,7 +34,7 @@ console.log("SUm of "+n+" is "+sum)
 //above program is used to find the sum of first natural numbers
 ```
 
-![[../../../attchments/Pasted image 20250402083704.png]]
+![Pasted image 20250402083704](../../../attchments/Pasted%20image%2020250402083704.png)
 
 for-in loop **loops through only the keys in an object
 
@@ -79,7 +79,7 @@ Marks of ashutosh is 88
 ```
 
 
-![[../../../attchments/Pasted image 20250402084517.png]]
+![Pasted image 20250402084517](../../../attchments/Pasted%20image%2020250402084517.png)
 
 for-of loop will print the object value if it is itrable
 

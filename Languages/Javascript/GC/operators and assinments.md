@@ -1,11 +1,11 @@
 
-![[../../../attchments/Pasted image 20250402100810.png]]
+![Pasted image 20250402100810](../../../attchments/Pasted%20image%2020250402100810.png)
 
-![[../../../attchments/Pasted image 20250402102751.png]]
+![Pasted image 20250402102751](../../../attchments/Pasted%20image%2020250402102751.png)
 
-![[../../../attchments/Pasted image 20250402104557.png]]
+![Pasted image 20250402104557](../../../attchments/Pasted%20image%2020250402104557.png)
 
-![[../../../attchments/Pasted image 20250402132428.png]]
+![Pasted image 20250402132428](../../../attchments/Pasted%20image%2020250402132428.png)
 
 
 ```js

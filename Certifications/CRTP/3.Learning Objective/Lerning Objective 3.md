@@ -1,9 +1,9 @@
 #windows
 #active 
 
-![[../../../attchments/Pasted image 20250327234739.png]]
+![Pasted image 20250327234739](../../../attchments/Pasted%20image%2020250327234739.png)
 
-![[../../../attchments/Pasted image 20250327234811.png]]
+![Pasted image 20250327234811](../../../attchments/Pasted%20image%2020250327234811.png)
 
 ```
 Get-NetOU

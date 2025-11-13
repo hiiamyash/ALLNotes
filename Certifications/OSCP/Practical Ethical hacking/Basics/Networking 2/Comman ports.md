@@ -1,6 +1,6 @@
 #networking #basics
 
-![[../../../../../attchments/Exported image 20241212230835-0.png|Exported image]]
+![Exported image](../../../../../attchments/Exported%20image%2020241212230835-0.png)
 
 3306 mysql
 3389 RDP

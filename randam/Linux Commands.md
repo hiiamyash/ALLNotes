@@ -8,7 +8,7 @@ Lists the contents of a director
 
 - `ls [options] [file/directory]`
 
-![[../attchments/Pasted image 20250614095310.png]]
+![Pasted image 20250614095310](../attchments/Pasted%20image%2020250614095310.png)
 
 
 # pwd
@@ -22,7 +22,7 @@ Prints the full path of the current working directory.
 
 `pwd`
 
-![[../attchments/Pasted image 20250614095730.png]]
+![Pasted image 20250614095730](../attchments/Pasted%20image%2020250614095730.png)
 
 # cat
 
@@ -34,7 +34,7 @@ Displays the content of files, concatenates files, or creates files.
 
 `cat [location of the file]`
 
-![[../attchments/Pasted image 20250614095922.png]]
+![Pasted image 20250614095922](../attchments/Pasted%20image%2020250614095922.png)
 
 
 # rm -rf
@@ -47,7 +47,7 @@ This command help in removing the file or directory it does it recursivly and fo
 
 `rm -rf [name of the file or Directory]`
 
-![[../attchments/Pasted image 20250614100556.png]]
+![Pasted image 20250614100556](../attchments/Pasted%20image%2020250614100556.png)
 
 # echo
 
@@ -60,7 +60,7 @@ Used to Print an string or store that string in an file
 `echo 'your string' >> file`
 
 
-![[../attchments/Pasted image 20250614100833.png]]
+![Pasted image 20250614100833](../attchments/Pasted%20image%2020250614100833.png)
 
 
 # mkdir
@@ -73,7 +73,7 @@ Helps in making directories
 
 `mkdir [name of the directory]`
 
-![[../attchments/Pasted image 20250614101125.png]]
+![Pasted image 20250614101125](../attchments/Pasted%20image%2020250614101125.png)
 # openvpn
 
 ## Description
@@ -84,7 +84,7 @@ Used to Connect to an vpn using it's ovpn file
 
 `sudo openvpn [name of your vpn file]`
 
-![[../attchments/Pasted image 20250614101334.png]]
+![Pasted image 20250614101334](../attchments/Pasted%20image%2020250614101334.png)
 
 # ifconfig
 
@@ -96,7 +96,7 @@ Used to Display information regarding network interfaces
 
 `ifconfig`
 
-![[../attchments/Pasted image 20250614101738.png]]
+![Pasted image 20250614101738](../attchments/Pasted%20image%2020250614101738.png)
 
 
 # ps
@@ -121,7 +121,7 @@ Used to Find any file or directory
 `find / -type f -perm -4000 2>/dev/null`
 
 
-![[../attchments/Pasted image 20250614095209.png]]
+![Pasted image 20250614095209](../attchments/Pasted%20image%2020250614095209.png)
 
 
 # managing users and groups

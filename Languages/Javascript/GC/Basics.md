@@ -1,6 +1,6 @@
 
 
-![[../../../attchments/Pasted image 20250401132955.png]]
+![Pasted image 20250401132955](../../../attchments/Pasted%20image%2020250401132955.png)
 
 **this is going to beyour simple Hello world program
 
@@ -37,16 +37,16 @@ console.log("Heloo") //this is an in-line comment
 
 ---
 
-![[../../../attchments/Pasted image 20250401134342.png]]
+![Pasted image 20250401134342](../../../attchments/Pasted%20image%2020250401134342.png)
 
 ---
 #### **Variables
 
-![[../../../attchments/Pasted image 20250401134757.png]]
+![Pasted image 20250401134757](../../../attchments/Pasted%20image%2020250401134757.png)
 
-![[../../../attchments/Pasted image 20250401140657.png]]
+![Pasted image 20250401140657](../../../attchments/Pasted%20image%2020250401140657.png)
 
-![[../../../attchments/Pasted image 20250401140755.png]]
+![Pasted image 20250401140755](../../../attchments/Pasted%20image%2020250401140755.png)
 
 
 
@@ -122,13 +122,13 @@ console.log("Value if y outside loop is "+y)
 test();
 ```
 
-![[../../../attchments/Pasted image 20250401152710.png]]
+![Pasted image 20250401152710](../../../attchments/Pasted%20image%2020250401152710.png)
 
-![[../../../attchments/Pasted image 20250401153545.png]]
+![Pasted image 20250401153545](../../../attchments/Pasted%20image%2020250401153545.png)
 
 
-![[../../../attchments/Pasted image 20250401161749.png]]
-![[../../../attchments/Pasted image 20250401161906.png]]
+![Pasted image 20250401161749](../../../attchments/Pasted%20image%2020250401161749.png)
+![Pasted image 20250401161906](../../../attchments/Pasted%20image%2020250401161906.png)
 
 ```js
 var x=4;
@@ -171,7 +171,7 @@ console.log("this is decrement "+c);
 
 ```
 
-![[../../../attchments/Pasted image 20250401163400.png]]
+![Pasted image 20250401163400](../../../attchments/Pasted%20image%2020250401163400.png)
 
 
 

@@ -25,7 +25,7 @@ A nop (opcode 0x90) stands for no operation. When encountering this instruction,
 CPU will do nothing and continue on to the next instruction. This behavior can be used
 to modify game logic.
 
-![[../../attchments/Pasted image 20250817134344.png]]
+![Pasted image 20250817134344](../../attchments/Pasted%20image%2020250817134344.png)
 
 By replacing the sub operation with a nop, the game will no longer subtract our gold.
 

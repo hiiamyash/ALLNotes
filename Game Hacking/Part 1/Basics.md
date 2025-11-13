@@ -38,8 +38,8 @@ The Setup will have fuctions that will run at the execution of the file like Lod
 
 THe main loop will have fuction that will keep runing till the program is not closed like Updateing the screen or the score board etc.
 
-![[../../attchments/Pasted image 20250816202700.png]]
-![[../../attchments/Pasted image 20250816202707.png]]
+![Pasted image 20250816202700](../../attchments/Pasted%20image%2020250816202700.png)
+![Pasted image 20250816202707](../../attchments/Pasted%20image%2020250816202707.png)
 
 Understand `for` loops in C and variables  
 
@@ -72,7 +72,7 @@ typically done by a mov command.
 
 ## Multiiiple Clients
 
-![[../../attchments/Pasted image 20250816210433.png]]
+![Pasted image 20250816210433](../../attchments/Pasted%20image%2020250816210433.png)
 
 Each client are the players in an multiplayer game and each client will have an copy of thier game and the server is how they will communtae will other clients and the game itself
 

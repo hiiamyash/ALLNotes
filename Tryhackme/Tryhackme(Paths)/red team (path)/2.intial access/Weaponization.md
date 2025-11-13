@@ -10,7 +10,7 @@ The following graph is an example of weaponization, where a crafted custom PDF o
 
 ![](https://tryhackme-images.s3.amazonaws.com/user-uploads/5d617515c8cd8348d0b4e68f/room-content/734a353799fc9f3cd05bb7421ceedd00.png)
 
-For more information about red team toolkits, please visit the following: a [[https://github.com/infosecn1nja/Red-Teaming-Toolkit#Payload Development]] that has it all, including initial access, payload development, delivery methods, and others.
+For more information about red team toolkits, please visit the following: a [](https://github.com/infosecn1nja/Red-Teaming-Toolkit#Payload%20Development) that has it all, including initial access, payload development, delivery methods, and others.
 
 Most organizations block or monitor the execution of .exe files within their controlled environment. For that reason, red teamers rely on executing payloads using other techniques, such as built-in windows scripting technologies. Therefore, this task focuses on various popular and effective scripting techniques, including:
 

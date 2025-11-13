@@ -1,45 +1,45 @@
 #linBox #linux #HTB
 
-![[../../attchments/Exported image 20241212233535-0.png|Exported image]]  
-![[../../attchments/Exported image 20241212233541-1.png|Exported image]]  
-![[../../attchments/Exported image 20241212233544-2.png|Exported image]]  
-![[../../attchments/Exported image 20241212233546-3.png|Exported image]]  
-![[../../attchments/Exported image 20241212233548-4.png|Exported image]]  
-![[../../attchments/Exported image 20241212233551-5.png|Exported image]]  
-![[../../attchments/Exported image 20241212233553-6.png|Exported image]]  
-![[../../attchments/Exported image 20241212233555-7.png|Exported image]]  
-![[../../attchments/Exported image 20241212233600-8.png|Exported image]]  
-![[../../attchments/Exported image 20241212233603-9.png|Exported image]]  
-![[../../attchments/Exported image 20241212233616-10.png|Exported image]]  
-![[../../attchments/Exported image 20241212233619-11.png|Exported image]]  
-![[../../attchments/Exported image 20241212233624-12.png|Exported image]]  
-![[../../attchments/Exported image 20241212233629-13.png|Exported image]]  
-![[../../attchments/Exported image 20241212233632-14.png|Exported image]]  
-![[../../attchments/Exported image 20241212233639-15.png|Exported image]]  
-![[../../attchments/Exported image 20241212233644-16.png|Exported image]]  
-![[../../attchments/Exported image 20241212233649-17.png|Exported image]]  
-![[../../attchments/Exported image 20241212233653-18.png|Exported image]]  
-![[../../attchments/Exported image 20241212233657-19.png|Exported image]]  
-![[../../attchments/Exported image 20241212233659-20.png|Exported image]]  
-![[../../attchments/Exported image 20241212233705-21.png|Exported image]]  
-![[../../attchments/Exported image 20241212233712-22.png|Exported image]]  
-![[../../attchments/Exported image 20241212233716-23.png|Exported image]]  
-![[../../attchments/Exported image 20241212233719-24.png|Exported image]]  
-![[../../attchments/Exported image 20241212233722-25.png|Exported image]]  
-![[../../attchments/Exported image 20241212233724-26.png|Exported image]]  
-![[../../attchments/Exported image 20241212233726-27.png|Exported image]]  
-![[../../attchments/Exported image 20241212233728-28.png|Exported image]]  
-![[../../attchments/Exported image 20241212233733-29.png|Exported image]]  
-![[../../attchments/Exported image 20241212233735-30.png|Exported image]]  
-![[../../attchments/Exported image 20241212233737-31.png|Exported image]]  
-![[../../attchments/Exported image 20241212233740-32.png|Exported image]]  
-![[../../attchments/Exported image 20241212233741-33.png|Exported image]]  
-![[../../attchments/Exported image 20241212233744-34.png|Exported image]]  
-![[../../attchments/Exported image 20241212233746-35.png|Exported image]]  
-![[../../attchments/Exported image 20241212233750-36.png|Exported image]]  
-![[../../attchments/Exported image 20241212233753-37.png|Exported image]]  
-![[../../attchments/Exported image 20241212233755-38.png|Exported image]]  
-![[../../attchments/Exported image 20241212233756-39.png|Exported image]]  
-![[../../attchments/Exported image 20241212233758-40.png|Exported image]]  
-![[../../attchments/Exported image 20241212233800-41.png|Exported image]]  
-![[../../attchments/Exported image 20241212233803-42.png|Exported image]]
+![Exported image](../../attchments/Exported%20image%2020241212233535-0.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233541-1.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233544-2.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233546-3.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233548-4.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233551-5.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233553-6.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233555-7.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233600-8.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233603-9.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233616-10.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233619-11.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233624-12.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233629-13.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233632-14.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233639-15.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233644-16.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233649-17.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233653-18.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233657-19.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233659-20.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233705-21.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233712-22.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233716-23.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233719-24.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233722-25.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233724-26.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233726-27.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233728-28.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233733-29.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233735-30.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233737-31.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233740-32.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233741-33.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233744-34.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233746-35.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233750-36.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233753-37.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233755-38.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233756-39.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233758-40.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233800-41.png)  
+![Exported image](../../attchments/Exported%20image%2020241212233803-42.png)

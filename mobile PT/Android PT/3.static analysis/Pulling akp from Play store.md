@@ -1,8 +1,8 @@
 
-![[../../../attchments/Pasted image 20250131212024.png]]
-![[../../../attchments/Pasted image 20250131212452.png]]
+![Pasted image 20250131212024](../../../attchments/Pasted%20image%2020250131212024.png)
+![Pasted image 20250131212452](../../../attchments/Pasted%20image%2020250131212452.png)
 
 drop into adb shell copy the file path 
-![[../../../attchments/Pasted image 20250131212524.png]]
+![Pasted image 20250131212524](../../../attchments/Pasted%20image%2020250131212524.png)
 
-![[../../../attchments/Pasted image 20250131212640.png]]
+![Pasted image 20250131212640](../../../attchments/Pasted%20image%2020250131212640.png)

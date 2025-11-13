@@ -1,4 +1,4 @@
-![[../../../attchments/Exported image 20241213184550-0.png|Exported image]]
+![Exported image](../../../attchments/Exported%20image%2020241213184550-0.png)
 
 PORT STATE SERVICE VERSION  
 22/tcp open ssh OpenSSH 7.4p1 Debian 10+deb9u1 (protocol 2.0)  
@@ -36,7 +36,7 @@ TRACEROUTE (using port 80/tcp)
 HOP RTT ADDRESS  
 1 440.21 ms 10.10.14.1  
 2 440.41 ms 10.10.10.51
-    ![[../../../attchments/Exported image 20241213184553-1.png|Exported image]]   
+    ![Exported image](../../../attchments/Exported%20image%2020241213184553-1.png)   
 ------------------------CREDS  
 username: mindy  
 pass: P@55W0rd1!2@

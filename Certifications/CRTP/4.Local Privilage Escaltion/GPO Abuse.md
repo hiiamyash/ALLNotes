@@ -2,16 +2,16 @@
 #active 
 
 
-![[../../../attchments/Pasted image 20250403204432.png]]
+![Pasted image 20250403204432](../../../attchments/Pasted%20image%2020250403204432.png)
 
 
-![[/ALLNotes/attchments/Pasted image 20250403204507.png]]
+![Pasted image 20250403204507](/ALLNotes/attchments/Pasted%20image%2020250403204507.png)
 
 
-![[../../../attchments/Pasted image 20250403204532.png]]
+![Pasted image 20250403204532](../../../attchments/Pasted%20image%2020250403204532.png)
 
 
-![[../../../attchments/Pasted image 20250403205113.png]]
+![Pasted image 20250403205113](../../../attchments/Pasted%20image%2020250403205113.png)
 
 **Explaination of GOPddity Attack In my Words
 
@@ -19,10 +19,10 @@ So what we are going to do is We are going to NTML relay the credentials of an U
 
 
 
-![[../../../attchments/Pasted image 20250403213048.png]]
+![Pasted image 20250403213048](../../../attchments/Pasted%20image%2020250403213048.png)
 
 **using malicious Shortcut we are going to trigger authenticaiton hence relatying the Creds of the user whoo has writeDacl perm to modify the aPCFileSysPath to an smb share were we have perm to host our malicous template (GPT) Group Policy Template
 
 
-![[../../../attchments/Pasted image 20250403214233.png]]
+![Pasted image 20250403214233](../../../attchments/Pasted%20image%2020250403214233.png)
 

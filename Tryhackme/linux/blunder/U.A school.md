@@ -1,12 +1,12 @@
-![[../../../attchments/Exported image 20241213160652-0.png|Exported image]]  
-![[../../../attchments/Exported image 20241213160655-1.png|Exported image]]  
-![[../../../attchments/Exported image 20241213160657-2.png|Exported image]]
+![Exported image](../../../attchments/Exported%20image%2020241213160652-0.png)  
+![Exported image](../../../attchments/Exported%20image%2020241213160655-1.png)  
+![Exported image](../../../attchments/Exported%20image%2020241213160657-2.png)
 
 We got index.php
 
-![[../../../attchments/Exported image 20241213160659-3.png|Exported image]]  
-![[../../../attchments/Exported image 20241213160705-4.png|Exported image]]   
+![Exported image](../../../attchments/Exported%20image%2020241213160659-3.png)  
+![Exported image](../../../attchments/Exported%20image%2020241213160705-4.png)   
 
 
 Sudo -l helped me
- ![[../../../attchments/Exported image 20241213160707-5.png|Exported image]]
+ ![Exported image](../../../attchments/Exported%20image%2020241213160707-5.png)

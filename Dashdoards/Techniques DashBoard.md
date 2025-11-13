@@ -1,8 +1,8 @@
 
 # Active Directory
 
-[[kerborosting.md.md|kerborosting]]
+[kerborosting](kerborosting.md.md)
 
-[[ldap authentication.md.md|ldap authentication]]
+[ldap authentication](ldap%20authentication.md.md)
 
 

@@ -1,31 +1,31 @@
 
-![[../../../attchments/Pasted image 20250206101339.png]]
-![[../../../attchments/Pasted image 20250206101350.png]]go to lib
+![Pasted image 20250206101339](../../../attchments/Pasted%20image%2020250206101339.png)
+![Pasted image 20250206101350](../../../attchments/Pasted%20image%2020250206101350.png)go to lib
 
-![[../../../attchments/Pasted image 20250206101405.png]]
+![Pasted image 20250206101405](../../../attchments/Pasted%20image%2020250206101405.png)
 in this case the artitechture is x86_64
 
-![[../../../attchments/Pasted image 20250206101446.png]]
+![Pasted image 20250206101446](../../../attchments/Pasted%20image%2020250206101446.png)
 
- ![[../../../attchments/Pasted image 20250206101745.png]]
- ![[../../../attchments/Pasted image 20250206101758.png]]
- ![[../../../attchments/Pasted image 20250206101815.png]]
- ![[../../../attchments/Pasted image 20250206101833.png]]
- ![[../../../attchments/Pasted image 20250206102313.png]]
- ![[../../../attchments/Pasted image 20250206102342.png]]
- ![[../../../attchments/Pasted image 20250206102409.png]]
+ ![Pasted image 20250206101745](../../../attchments/Pasted%20image%2020250206101745.png)
+ ![Pasted image 20250206101758](../../../attchments/Pasted%20image%2020250206101758.png)
+ ![Pasted image 20250206101815](../../../attchments/Pasted%20image%2020250206101815.png)
+ ![Pasted image 20250206101833](../../../attchments/Pasted%20image%2020250206101833.png)
+ ![Pasted image 20250206102313](../../../attchments/Pasted%20image%2020250206102313.png)
+ ![Pasted image 20250206102342](../../../attchments/Pasted%20image%2020250206102342.png)
+ ![Pasted image 20250206102409](../../../attchments/Pasted%20image%2020250206102409.png)
  when you came to this directory look for an smali file that gets loded during the boot process
-![[../../../attchments/Pasted image 20250206102513.png]]
+![Pasted image 20250206102513](../../../attchments/Pasted%20image%2020250206102513.png)
 in this case it is mainactivity.smali
 
 
-![[../../../attchments/Pasted image 20250206102712.png]]
+![Pasted image 20250206102712](../../../attchments/Pasted%20image%2020250206102712.png)
 whenn we open the smali file we are looking for something like this method opublic consttructor
 
-![[../../../attchments/Pasted image 20250206104420.png]]
+![Pasted image 20250206104420](../../../attchments/Pasted%20image%2020250206104420.png)
 
-![[../../../attchments/Pasted image 20250206104549.png]]
-![[../../../attchments/Pasted image 20250206104842.png]]
+![Pasted image 20250206104549](../../../attchments/Pasted%20image%2020250206104549.png)
+![Pasted image 20250206104842](../../../attchments/Pasted%20image%2020250206104842.png)
 
 ```
 $ keytool -genkey -v -keystore custom.keystore -alias mykeyaliasname -keyalg RSA -keysize 2048 -validity 10000

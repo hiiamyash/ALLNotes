@@ -1,5 +1,5 @@
 
-![[../../../attchments/Pasted image 20250401232328.png]]
+![Pasted image 20250401232328](../../../attchments/Pasted%20image%2020250401232328.png)
 
 ```js
 // Chapter 2PS

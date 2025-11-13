@@ -1,29 +1,29 @@
 
-![[../../../attchments/Pasted image 20250627173222.png]]
+![Pasted image 20250627173222](../../../attchments/Pasted%20image%2020250627173222.png)
 
-![[../../../attchments/Pasted image 20250627173234.png]]
-![[../../../attchments/Pasted image 20250627173208.png]]
+![Pasted image 20250627173234](../../../attchments/Pasted%20image%2020250627173234.png)
+![Pasted image 20250627173208](../../../attchments/Pasted%20image%2020250627173208.png)
 
-![[../../../attchments/Pasted image 20250627173444.png]]
+![Pasted image 20250627173444](../../../attchments/Pasted%20image%2020250627173444.png)
 
-![[../../../attchments/Pasted image 20250627175018.png]]
+![Pasted image 20250627175018](../../../attchments/Pasted%20image%2020250627175018.png)
 
 
 # Steps to abuse
 
 **FInd find the users that has uncontsained delegation enabled
 
-![[../../../attchments/Pasted image 20250627175427.png]]
+![Pasted image 20250627175427](../../../attchments/Pasted%20image%2020250627175427.png)
 
-![[../../../attchments/Pasted image 20250627175501.png]]
+![Pasted image 20250627175501](../../../attchments/Pasted%20image%2020250627175501.png)
 
-![[../../../attchments/Pasted image 20250627175649.png]]
+![Pasted image 20250627175649](../../../attchments/Pasted%20image%2020250627175649.png)
 
 you can force server2 to connect to the server 1
 
-![[../../../attchments/Pasted image 20250627175809.png]]
+![Pasted image 20250627175809](../../../attchments/Pasted%20image%2020250627175809.png)
 
-![[../../../attchments/Pasted image 20250627175817.png]]
+![Pasted image 20250627175817](../../../attchments/Pasted%20image%2020250627175817.png)
 
 
 ### Kerberos Delegation (in general)

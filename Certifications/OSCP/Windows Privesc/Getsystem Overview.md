@@ -1,6 +1,6 @@
 
 #winpriv #windows
 
-![[../../../attchments/Exported image 20241213161626-0.png|Exported image]]  
-![[../../../attchments/Exported image 20241213161627-1.png|Exported image]]  
-![[../../../attchments/Exported image 20241213161630-2.png|Exported image]]
+![Exported image](../../../attchments/Exported%20image%2020241213161626-0.png)  
+![Exported image](../../../attchments/Exported%20image%2020241213161627-1.png)  
+![Exported image](../../../attchments/Exported%20image%2020241213161630-2.png)

@@ -4,15 +4,15 @@ flag 1 was in the source code section in jhax gui
 
 secound flag
 
-![[../../../attchments/Pasted image 20250202181407.png]]
+![Pasted image 20250202181407](../../../attchments/Pasted%20image%2020250202181407.png)
 
-![[../../../attchments/Pasted image 20250202181418.png]]
+![Pasted image 20250202181418](../../../attchments/Pasted%20image%2020250202181418.png)
 
-![[../../../attchments/Pasted image 20250202181544.png]]
+![Pasted image 20250202181544](../../../attchments/Pasted%20image%2020250202181544.png)
 
-![[../../../attchments/Pasted image 20250202181813.png]]
+![Pasted image 20250202181813](../../../attchments/Pasted%20image%2020250202181813.png)
 i added the `/` and now i can strat this externally because of exported=true
-![[../../../attchments/Pasted image 20250202181905.png]]
+![Pasted image 20250202181905](../../../attchments/Pasted%20image%2020250202181905.png)
 we got the secoud flag
 
 
@@ -20,10 +20,10 @@ we got the secoud flag
 
 flag 3
 
-![[../../../attchments/Pasted image 20250202182056.png]]
+![Pasted image 20250202182056](../../../attchments/Pasted%20image%2020250202182056.png)
 this is in the souce code section
 
-![[../../../attchments/Pasted image 20250202182239.png]]
+![Pasted image 20250202182239](../../../attchments/Pasted%20image%2020250202182239.png)
 this if statement is comparing two strings
 
-![[../../../attchments/Pasted image 20250202182406.png]]
+![Pasted image 20250202182406](../../../attchments/Pasted%20image%2020250202182406.png)

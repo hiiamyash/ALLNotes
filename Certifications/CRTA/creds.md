@@ -1,3 +1,3 @@
 
-Username: [[mailto:sevenoffsec@gmail.com|sevenoffsec@gmail.com]]  
+Username: [sevenoffsec@gmail.com](mailto:sevenoffsec@gmail.com)  
 Password: .fE7rDRdme
