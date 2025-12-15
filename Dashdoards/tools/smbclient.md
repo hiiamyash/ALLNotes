@@ -12,3 +12,4 @@ mget *
 smbclient //10.10.11.89/SYSVOL -U 'darkzero.htb\john.w'%'RFulUtONCOL!'
 ```
 
+

@@ -30,3 +30,8 @@ xfreerdp /v:10.10.10.100 /u:Administrator /p:P@ssw0rd123 /cert:ignore /size:1600
 xfreerdp3 /v:10.129.204.23 /u:Administrator /p:AnotherC0mpl3xP4$$ /cert:ignore /sec:nla:off
 ```
 
+
+```
+xfreerdp3 /u:bdavid /p:'caramel-cigars-reply1' /d:nexura.htb /v:172.16.119.7 /cert:ignore /dynamic-resolution
+```
+

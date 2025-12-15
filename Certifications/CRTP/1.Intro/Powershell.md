@@ -1,6 +1,7 @@
 #active #windows 
 
 ![Pasted image 20250218164711](../../../attchments/Pasted%20image%2020250218164711.png)
+
 ![Pasted image 20250218164816](../../../attchments/Pasted%20image%2020250218164816.png)
 
 ![Pasted image 20250218165113](../../../attchments/Pasted%20image%2020250218165113.png)
