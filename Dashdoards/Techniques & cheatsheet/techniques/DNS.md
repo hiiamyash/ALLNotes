@@ -5,6 +5,7 @@ Of course! Let's break down that technical explanation into simple terms using a
 
 Imagine a massive, country-wide phone book system. It would be impossible to keep all the numbers in one single giant book. Instead, you'd have separate phone books for each city or even each neighborhood.
 
+
 In the world of DNS (which is the internet's phone book), a **zone file** is like the phone book for a specific "neighborhood" on the internet—in this case, a single domain like `mycoolshop.in`.
 
 ---

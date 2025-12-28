@@ -35,3 +35,9 @@ xfreerdp3 /v:10.129.204.23 /u:Administrator /p:AnotherC0mpl3xP4$$ /cert:ignore /
 xfreerdp3 /u:bdavid /p:'caramel-cigars-reply1' /d:nexura.htb /v:172.16.119.7 /cert:ignore /dynamic-resolution
 ```
 
+```
+xfreerdp3 /v:10.129.127.14 /u:htb-rdp /p:HTBRocks! /cert:ignore /auth-pkg-list:\!kerberos /timeout:80000 /size:800x600 /bpp:16 /network:auto
+```
+
+`BBluuekepp`
+
