@@ -1,7 +1,7 @@
 
 ```
-ip tuntap add user root mode tun ligolo
-ip link set ligolo up
+sudo ip tuntap add user root mode tun ligolo
+sudo ip link set ligolo up
 ```
 
 ```
@@ -17,6 +17,7 @@ ip link set ligolo up
 ip route add 192.168.98.0/24 dev ligolo
 ip route list
 ```
+
 
 ```
 sudo ip route replace 192.168.98.0/24 dev ligolo
