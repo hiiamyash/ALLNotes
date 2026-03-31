@@ -15,11 +15,13 @@ to covert atnt format to intel
 set disassembley-flavor intel
 ```
 
-to add an break 
+to add an break point
 ```
 break *<address>*
 ```
-
+```
+br address
+```
 
 to get the value inside an register
 
@@ -39,4 +41,6 @@ to go to the next instrustion
 nexti
 ni
 ```
+
+
 
