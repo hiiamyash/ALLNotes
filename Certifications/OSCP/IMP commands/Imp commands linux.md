@@ -48,6 +48,7 @@ nc -l -p <port> > received_file
 
  ```
  ln -s /path/to/folder /destination/folder/location
+ 
 ```
 
     
